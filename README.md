@@ -1,2 +1,2 @@
 # CIGOS-2021-DATASETS
-Clean datasets for CIGOS 2021 conference paper!
+Clean datasets used for CIGOS 2021 conference paper are provided here. The files are in CSV format. You are welcome to use and share these files. To acknowledge the original author/producer of the datasets and help other researchers find the resource, please include citations on this repo as well as the related municipal agencies' websites. The websites can be found in the References section of the paper. Feel free to shoot me a message if you have any questions. -Milad-
