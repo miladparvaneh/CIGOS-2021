@@ -1,1 +1,1 @@
-Scatter plot of the measured target variable vs. the predicted values for the selected eight cities.
+Scatter plot of measured target variable vs. predicted values for the eight selected cities.
