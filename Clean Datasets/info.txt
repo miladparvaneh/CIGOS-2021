@@ -1,1 +1,1 @@
-Clean datasets for residential buildings energy benchmarking of eight cities across U.S.
+Clean datasets for residential buildings energy benchmarking programs of selected eight cities across the U.S.
